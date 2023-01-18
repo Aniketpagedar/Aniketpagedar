@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **javascript projects**
 
-- 💬 Ask me about **CSS,Angularjs,Flutter**
+- 💬 Ask me about **CSS,Angularjs,Flutter,Django**
 
 - 📫 How to reach me **aniketpagedar18@gmail.com**
 
