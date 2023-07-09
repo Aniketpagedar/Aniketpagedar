@@ -1,3 +1,5 @@
+![logo](https://github.com/Aniketpagedar/Aniketpagedar/blob/main/Add%20a%20heading%20(3).jpg)
+
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h2 align="center">A passionate frontend developer</h2>
 <img align ="center" alt="coding" width="400" align-item="center"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br/> <br/><br/><br/><br/><br/><br/><br/>
