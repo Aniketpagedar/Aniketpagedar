@@ -8,15 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket&label=Profile%20views&color=0e75b6&style=flat" alt="aniket" /> </p>
 
-- 🔭 I’m currently working on **Javascript and its frameworks**
+- 🔭 I’m currently working on **Javascript and its frameworks and learning cloud based  solutions and implementation
+-    
 
-- 🌱 I’m currently learning **Node js ,React js and Android technology**
+- 🌱 I’m currently learning **Node js ,React js and Angular js project **
 
 - 🤝 I’m looking for help with **javascript projects**
 
 - 💬 Ask me about **CSS,Angularjs,Flutter,Django**
 
-- 📫 How to reach me **aniketpagedar18@gmail.com**
+- 📫 How to reach me **aniketpagedar18@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
